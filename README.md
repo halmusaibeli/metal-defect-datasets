@@ -27,3 +27,17 @@ Further, some of the datasets are not available on the roboflow website due to t
     - NRSD-CR
 - For GC10-DET dataset, classes naming needs to be corrected when downlowding from the roboflow link.
 - For RSDDs dataset, source link might require passcode which is **nanr**
+
+## Datasets Samples:
+- **NEU-DET**:              <br/> ![sample](./samples/neu-det.png)          <br/>
+- **KolektorSDD1**:         <br/> ![sample](./samples/kolektor-sdd1.png)    <br/>
+- **KolektorSDD2**:         <br/> ![sample](./samples/kolektor-sdd2.png)    <br/>
+- **Magnatic-tile-defect**: <br/> ![sample](./samples/mtd.png)              <br/>
+- **NRSD-CR**:              <br/> ![sample](./samples/nrsd-cr.png)          <br/>
+- **GC10-DET**:             <br/> ![sample](./samples/gc10-det.png)         <br/>
+- **Severstal**:            <br/> ![sample](./samples/severstal.png)        <br/>
+- **DAGM 2007**:            <br/> ![sample](./samples/dagm2007.jpg)         <br/>
+- **RSDDs**:                <br/> ![sample](./samples/rsdd1.png) ![sample](./samples/rsdd2.png) ![sample](./samples/rsdd3.png)     <br/>
+- **BSData**:               <br/> ![sample](./samples/bsdata.png)           <br/>
+
+**keywords**: defect-dataset, yolov7, neu-det, kolektorsdd, magnatic-tile-defect, nrsd-cr, gc10-det, dagm2007, severstal, rsdds, bsdata

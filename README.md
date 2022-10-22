@@ -34,7 +34,7 @@ Further, some of the datasets are not available on the roboflow website due to t
 - **KolektorSDD2**:         <br/> ![sample](./samples/kolektor-sdd2.png)    <br/>
 - **Magnatic-tile-defect**: <br/> ![sample](./samples/mtd.png)              <br/>
 - **NRSD-CR**:              <br/> ![sample](./samples/nrsd-cr.png)          <br/>
-- **GC10-DET**:             <br/> ![sample](./samples/gc10-det.png)         <br/>
+- **GC10-DET**:             <br/> ![sample](./samples/gc10-det0.png)         <br/>
 - **Severstal**:            <br/> ![sample](./samples/severstal.png)        <br/>
 - **DAGM 2007**:            <br/> ![sample](./samples/dagm2007.jpg)         <br/>
 - **RSDDs**:                <br/> ![sample](./samples/rsdd1.png) ![sample](./samples/rsdd2.png) ![sample](./samples/rsdd3.png)     <br/>

@@ -36,7 +36,7 @@ Further, some of the datasets are not available on the roboflow website due to t
 - **NRSD-CR**:              <br/> ![sample](./samples/nrsd-cr.png)          <br/>
 - **GC10-DET**:             <br/> ![sample](./samples/gc10-det0.png)         <br/>
 - **Severstal**:            <br/> ![sample](./samples/severstal.png)        <br/>
-- **DAGM 2007**:            <br/> ![sample](./samples/dagm2007.jpg)         <br/>
+- **DAGM 2007**:            <br/> ![sample](./samples/dagm2007.png)         <br/>
 - **RSDDs**:                <br/> ![sample](./samples/rsdd1.png) ![sample](./samples/rsdd2.png) ![sample](./samples/rsdd3.png)     <br/>
 - **BSData**:               <br/> ![sample](./samples/bsdata.png)           <br/>
 

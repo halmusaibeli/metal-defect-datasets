@@ -10,7 +10,7 @@ Further, some of the datasets are not available on the roboflow website due to t
 | NEU-DET                       | [Cite](https://doi.org/10.1016/j.apsusc.2013.09.002)      | [Download](https://universe.roboflow.com/defectdatasets/neu-det-fquva/1)          |   -       |
 | kolektorSDD1                  | [Cite](https://doi.org/10.1016/j.compind.2021.103459)     | [NA]('')                                                                          | [source](https://www.vicos.si/resources/kolektorsdd/) |
 | kolektorSDD2                  | [Cite](https://doi.org/10.1016/j.compind.2021.103459)     | [Download](https://universe.roboflow.com/defectdatasets/kolektorsdd2-xnm8r/1)     | [source](https://www.vicos.si/resources/kolektorsdd2/) |
-| Magnatic-tile-defect(MTD)     | [Cite](https://doi.org/10.1007/s00371-018-1588-5)         | [Download](https://universe.roboflow.com/defectdatasets/magnatic-tile-defect/1)   | [source](https://github.com/Charmve/Surface-Defect-Detection/tree/master/Magnetic-Tile-Defect) |
+| Magnetic-tile-defect(MTD)     | [Cite](https://doi.org/10.1007/s00371-018-1588-5)         | [Download](https://universe.roboflow.com/defectdatasets/magnatic-tile-defect/1)   | [source](https://github.com/Charmve/Surface-Defect-Detection/tree/master/Magnetic-Tile-Defect) |
 | NRSD-CR                       | [Cite](https://doi.org/10.1109/TIM.2020.3040890)          | [Download](https://universe.roboflow.com/defectdatasets/nrsd-cr/1)                | [source](https://github.com/zdfcvsn/MCnet) |
 | GC10-DET                      | [Cite](https://doi:10.3390/s20061562)                     | [Download](https://universe.roboflow.com/g-deepti-raj/gc10-det-latest/dataset/3)  | [source](https://www.kaggle.com/datasets/alex000kim/gc10det?select=Defects+Description.xlsx) |
 | DAGM 2007                     | [NA]('')                                                  | [NA]('')                                                                          | [source](https://hci.iwr.uni-heidelberg.de/content/weakly-supervised-learning-industrial-optical-inspection) |
@@ -32,7 +32,7 @@ Further, some of the datasets are not available on the roboflow website due to t
 - **NEU-DET**:              <br/> ![sample](./samples/neu-det.png)          <br/>
 - **KolektorSDD1**:         <br/> ![sample](./samples/kolektor-sdd1.png)    <br/>
 - **KolektorSDD2**:         <br/> ![sample](./samples/kolektor-sdd2.png)    <br/>
-- **Magnatic-tile-defect**: <br/> ![sample](./samples/mtd.png)              <br/>
+- **Magnetic-tile-defect**: <br/> ![sample](./samples/mtd.png)              <br/>
 - **NRSD-CR**:              <br/> ![sample](./samples/nrsd-cr.png)          <br/>
 - **GC10-DET**:             <br/> ![sample](./samples/gc10-det0.png)         <br/>
 - **Severstal**:            <br/> ![sample](./samples/severstal.png)        <br/>
@@ -40,4 +40,4 @@ Further, some of the datasets are not available on the roboflow website due to t
 - **RSDDs**:                <br/> ![sample](./samples/rsdd1.png) ![sample](./samples/rsdd2.png) ![sample](./samples/rsdd3.png)     <br/>
 - **BSData**:               <br/> ![sample](./samples/bsdata.png)           <br/>
 
-**keywords**: defect-dataset, yolov7, neu-det, kolektorsdd, magnatic-tile-defect, nrsd-cr, gc10-det, dagm2007, severstal, rsdds, bsdata
+**keywords**: defect-dataset, yolov7, neu-det, kolektorsdd, magnetic-tile-defect, nrsd-cr, gc10-det, dagm2007, severstal, rsdds, bsdata
